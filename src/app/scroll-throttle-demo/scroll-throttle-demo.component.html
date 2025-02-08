@@ -1,0 +1,19 @@
+<div class="container">
+    <h2>Throttle Scroll Performance Demo</h2>
+    <p>Scroll down and observe the difference in event handling.</p>
+  
+    <div class="box">
+      <h3>Without Throttle (High CPU Usage)</h3>
+      <p>Scroll Position: {{ scrollPosition }} px</p>
+      <p>Event Count: {{ eventCountWithoutThrottle }}</p>
+    </div>
+  
+    <div class="box throttled">
+      <h3>With Throttle (Optimized)</h3>
+      <p>Scroll Position: {{ scrollPositionThrottled }} px</p>
+      <p>Event Count: {{ eventCountWithThrottle }}</p>
+    </div>
+  
+    <div class="spacer"></div> <!-- Extra content to allow scrolling -->
+  </div>
+  

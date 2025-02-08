@@ -1,0 +1,12 @@
+<div class="container">
+    <h2>Debounce Example</h2>
+  
+    <!-- Search Input (Debounced) -->
+    <label for="search">Search (Debounced):</label>
+    <input id="search" type="text" (input)="onSearch($event)" placeholder="Type something..." />
+  
+    <p *ngIf="searchQuery">Searching for: <strong>{{ searchQuery }}</strong></p>
+  
+    <hr />
+  
+  </div>
